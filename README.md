@@ -18,7 +18,7 @@ A beginner-friendly, hands-on exercise using **fully synthetic data**. Practice 
 - Includes exercise instructions, solution notes, example DAX, and a Python data-validation script
 - Designed for **Power BI Desktop**; no Power BI Service account required
 
-**Start here:** [Read the challenge](https://github.com/saud968/datatalkswithsaud-powerbi-labs/blob/main/exercises/challenge.md) · [Explore the repository](https://github.com/saud968/datatalkswithsaud-powerbi-labs)
+**Start here:** [Beginner walkthrough](https://github.com/saud968/datatalkswithsaud-powerbi-labs/blob/main/docs/START_HERE.md) · [Try the exercise](https://github.com/saud968/datatalkswithsaud-powerbi-labs/blob/main/exercises/challenge.md) · [Explore the repository](https://github.com/saud968/datatalkswithsaud-powerbi-labs)
 
 > This learning project does not yet include a completed or independently tested `.pbix` report.
 
