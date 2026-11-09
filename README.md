@@ -22,6 +22,13 @@ A beginner-friendly, hands-on exercise using **fully synthetic data**. Practice 
 
 > This learning project does not yet include a completed or independently tested `.pbix` report.
 
+### [SQL Labs — Free SQL Practice from Beginner to Advanced](https://github.com/saud968/datatalkswithsaud-sql-labs)
+
+Practice **12 runnable SQL challenges** on fictional customer and order datasets, covering joins, aggregation, window functions, and data-quality checks. Every exercise has a tested SQLite solution and expected output; Python's built-in SQLite means no paid SQL software or cloud account is required.
+
+**Start here:** [Beginner guide](https://github.com/saud968/datatalkswithsaud-sql-labs/blob/main/docs/START_HERE.md) · [Try the exercises](https://github.com/saud968/datatalkswithsaud-sql-labs/blob/main/exercises/README.md) · [View successful automated checks](https://github.com/saud968/datatalkswithsaud-sql-labs/actions)
+
+
 ## 🧰 Tools and areas I work with
 
 - **Analytics & reporting:** Power BI, DAX, Power Query, Excel
